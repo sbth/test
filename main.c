@@ -9,7 +9,7 @@ while (1)
 	{
 	if (j!=0) 
 		{
-			
+		for (j++;;);
 		}
 	}
 //  secondo commit
